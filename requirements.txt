@@ -29,3 +29,4 @@ tornado==6.4.2
 traitlets==5.14.3
 wcwidth==0.2.13
 wheel==0.44.0
+pywin32==308
